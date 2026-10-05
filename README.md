@@ -9,5 +9,5 @@ Draft prepared by the Viceroy of Orfalia, October 2026, for His Imperial Majesty
 - `orfalia_places.csv` — places shown, with sources and location precision
 
 Locations are approximate (town level) and are plotted only where a source names a place; no borders are drawn.
-Aglakea's status is to be confirmed (its own MicroWiki page says it joined the Kingdom of Pamphylia on 1 July 2024).
+Aglakea has been a Province of the Kingdom of Orfalia since 6 September 2026.
 Sources: MicroWiki (October 2026). Base maps: Natural Earth (print), Esri / OpenStreetMap tiles (interactive).
